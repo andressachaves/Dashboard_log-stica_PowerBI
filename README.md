@@ -1,5 +1,4 @@
-# Dashboard_log-stica_PowerBI
-# Dashboard de Logística
+# Dashboard de Logística PowerBI
 
 ## Business Case
 
